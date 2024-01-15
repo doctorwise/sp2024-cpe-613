@@ -1,0 +1,6 @@
+[submodule "examples/cuda-samples"]
+	path = examples/cuda-samples
+	url = git@github.com:NVIDIA/cuda-samples.git
+[submodule "examples/hip-samples"]
+	path = examples/hip-samples
+	url = git@github.com:ROCm/HIP-Examples.git
