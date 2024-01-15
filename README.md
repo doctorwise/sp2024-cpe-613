@@ -1,4 +1,4 @@
-# GPGPU Programming (CPE 613, SP2024)
+# General Purpose GPU (GPGPU) Programming (CPE 613, SP2024)
 
 Greetings!
 
