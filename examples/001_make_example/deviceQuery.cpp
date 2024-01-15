@@ -1,0 +1,1 @@
+../cuda-samples/Samples/1_Utilities/deviceQuery/deviceQuery.cpp

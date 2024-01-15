@@ -1,1 +1,0 @@
-../cuda-samples/Common/helper_cuda.h
