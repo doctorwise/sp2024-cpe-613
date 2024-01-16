@@ -4,3 +4,6 @@
 [submodule "examples/hip-samples"]
 	path = examples/hip-samples
 	url = git@github.com:ROCm/HIP-Examples.git
+[submodule "examples/kokkos-examples"]
+	path = examples/kokkos-examples
+	url = https://github.com/kokkos/kokkos-tutorials.git
